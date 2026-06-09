@@ -1,0 +1,14 @@
+# Models
+
+This directory stores trained CNN models.
+
+Architecture:
+
+- Conv2D (32)
+- Conv2D (64)
+- Conv2D (128)
+- Dense (128)
+- Dropout (0.5)
+- Softmax Output
+
+Framework: TensorFlow / Keras
