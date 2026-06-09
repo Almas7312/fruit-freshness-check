@@ -1,0 +1,17 @@
+# Dataset
+
+Dataset: Fruit Classification Dataset
+
+Source:
+https://www.kaggle.com/datasets/jiscecseaiml/fruit-classification-dataset
+
+Classes:
+
+- Fresh Apple
+- Rotten Apple
+- Fresh Banana
+- Rotten Banana
+- Fresh Orange
+- Rotten Orange
+
+Dataset contains training and testing images used for CNN-based fruit freshness classification.
